@@ -1,0 +1,48 @@
+Casos de Uso
+
+UC#01: Vizualizar Landing Page
+UC#02: Realizar Login
+UC#03: Recuperar Senha
+UC#24: Enviar link de recuperação
+UC#04: Realizar Cadastro
+UC#05: Visualizar a Dashboard Cliente OK (CONTIDO EM UC#06)
+
+UC#06: Listar agendamentos cliente OK
+UC#07: Visitar Perfil Profissional
+UC#08: Realizar Agendamento
+UC#09: Cancelar Agendamento Cliente OK
+UC#10: Realizar Avaliação OK
+UC#12: Favoritar Profissional OK (CONTIDO EM UC#06)
+UC#12: Denunciar Profissional
+UC#26: Listar avaliações cliente OK
+UC#25: Listar Profissionais Favoritos OK
+UC#22: Meu perfil Cliente OK 
+UC#30: Realizar Busca profissional OK
+UC#31: Excluir Avaliação Cliente OK
+UC#32: Editar Avaliação Cliente OK
+UC#33: Editar perfil Cliente OK
+
+UC#13: Listar Agendamentos Profissional OK
+UC#14: Cancelar Agendamento Profissional OK
+UC#15: Listar Habilidades Profissional OK
+UC#26: Cadastrar Habilidades Profissional OK
+UC#16: Excluir Habilidades Profissional OK
+UC#17: Editar Habilidades Profissional OK
+UC#29: Editar perfil Profissional ok
+UC#28: Visualizar a Dashboard Profissional ok (CONTIDO EM UC#13)
+UC#34: Listar avaliações Profissional
+UC#35: Meu Perfil Profissional
+
+UC#18: Listar Denuncias
+UC#19: Suspender Usuário
+UC#20: Banir Usuário
+UC#21: Invalidar Denúncia
+
+
+UC#23: Listar Ranking Profissional OK
+
+
+
+
+
+
